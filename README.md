@@ -7,7 +7,7 @@ Link:https://bipradeep-keeper-app.netlify.app/
 * Rendered separate components for Header,Footer, Input Area and Notes section.
 * Added the feature to dynamically **Add** and **Delete** Notes.
 
-##Tech Stack
+## Tech Stack
 * React.js
 * Vanilla css
 
