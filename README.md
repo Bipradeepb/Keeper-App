@@ -1,3 +1,16 @@
+# Keeper App
+## A Notes Taking Application-Keep all your notes at the same place
+Link:https://bipradeep-keeper-app.netlify.app/
+
+## Featurs added
+* Built a note-taking application in **React.js** using **React Hooks** and **States**.
+* Rendered separate components for Header,Footer, Input Area and Notes section.
+* Added the feature to dynamically **Add** and **Delete** Notes.
+
+##Tech Stack
+* React.js
+* Vanilla css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
